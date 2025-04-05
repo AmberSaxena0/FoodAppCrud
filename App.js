@@ -10,8 +10,10 @@ const App = () => {
   return (
     <SafeAreaView style={{flex: 1, backgroundColor: COLORS.white}}>
       <Provider store={store}>
+     
         <Navigator />
       </Provider>
+      
     </SafeAreaView>
   );
 };
