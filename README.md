@@ -1,6 +1,26 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
+
 # Getting Started
+
+## 🚀 Features
+
+- 📦 **Add, view, update, and delete** food items
+- 🧠 **Redux Toolkit** for global state management
+- 💾 **AsyncStorage** for local data persistence
+- ⚡ **Fast Refresh** enabled for quick development cycles
+- 📱 Cross-platform (Android and iOS) support
+
+---
+
+## 📦 Tech Stack
+
+- [React Native](https://reactnative.dev/)
+- [Redux Toolkit](https://redux-toolkit.js.org/)
+- [AsyncStorage](https://react-native-async-storage.github.io/async-storage/)
+- [React Navigation](https://reactnavigation.org/) *(optional if used for screens)*
+
+---
 
 > **Note**: Make sure you have completed the [Set Up Your Environment](https://reactnative.dev/docs/set-up-your-environment) guide before proceeding.
 
@@ -66,7 +86,7 @@ This is one way to run your app — you can also build it directly from Android 
 
 Now that you have successfully run the app, let's make changes!
 
-Open `App.tsx` in your text editor of choice and make some changes. When you save, your app will automatically update and reflect these changes — this is powered by [Fast Refresh](https://reactnative.dev/docs/fast-refresh).
+Open `App.js` in your text editor of choice and make some changes. When you save, your app will automatically update and reflect these changes — this is powered by [Fast Refresh](https://reactnative.dev/docs/fast-refresh).
 
 When you want to forcefully reload, for example to reset the state of your app, you can perform a full reload:
 
